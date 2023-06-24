@@ -1,0 +1,12 @@
+[
+    {
+        "nombre": "Receta 1",
+        "ingredientes": ["ingrediente1", "ingrediente2", "..."],
+        "pasos": ["paso1", "paso2", "..."]
+    },
+    {
+        "nombre": "Receta 2",
+        "ingredientes": ["ingrediente1", "ingrediente3", "..."],
+        "pasos": ["paso1", "paso2", "..."]
+    }
+]
